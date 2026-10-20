@@ -2,7 +2,6 @@
 
 **Module:** IE3122 Network Security
 **Institution:** Sri Lanka Institute of Information Technology (SLIIT)
-**Type:** Group Assignment (4 members)
 **Tool:** Cisco Packet Tracer
 
 ## Overview
